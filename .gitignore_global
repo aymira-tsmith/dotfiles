@@ -21,3 +21,6 @@ Gemfile.local.lock
 .tags
 .tags1
 tags1
+
+app.local.properties
+app.gcp.properties
